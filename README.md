@@ -21,4 +21,4 @@
 
 	a) import library from zip file esp8266-oled-ssd1306-master.
 	b) Upload code in the folder Server_and_Display_NodeMCU to NodeMCU.
-	   Note - Make sure image.h file in the same folder in which Server_and_Display.ino file is.
+	   Note - Make sure image.h file is in the same folder in which Server_and_Display.ino file is stored.   
